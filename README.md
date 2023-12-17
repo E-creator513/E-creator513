@@ -8,6 +8,11 @@
 <p align="left">My name is Emmanuel George and I'm a Control Sytems student at ITMO Reasearch University.All coding projects  built on this page are from the ground up, from planning and designing all the way to solving real-life problems with code.I publish most of my  content on my blog channel ,be sure to check it out</p>
 
 ###
+###
+
+<p align="left">Меня зовут Эммануэль Джордж, и я студент факультета систем управления Исследовательского университета ИТМО.Все проекты по программированию, представленные на этой странице, созданы с нуля, от планирования и проектирования до решения реальных задач с помощью кода.Я публикую большую часть своего контента на своем канале в блоге, обязательно ознакомьтесь с ним</p>
+
+###
 
 <h2 align="left">About me</h2>
 
@@ -87,7 +92,9 @@
 
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
-###   
+###  
+My role as a data analysis engineer is where I dive into the world of information, extracting insights and sculpting strategies based on the patterns and trends I uncover. I'm the conductor of these systems, orchestrating their movements to ensure they work seamlessly and yield the best possible outcomes.
+
 <!--
 **E-creator513/E-creator513** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
