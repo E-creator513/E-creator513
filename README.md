@@ -2,7 +2,7 @@
 **`Control System Specialist (Developer/Engineer/Creator)`**
 
   <p align="left">
-      <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
+      <a href="https://github.com/E-creator513/E-creator513">
          <img alt="Cryptography" title="ознакомьтесь с классной криптографией" src="https://github.com/E-creator513/OwenLogic"/></a> 
       <a href="https://www.youtube.com/c/fknight">
          <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
