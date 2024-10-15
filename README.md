@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">✨ I have been creating bugs since 2019<br>📚 I'm currently learning Robotics and Machine Learning<br>🎯i hope to master cryptography one lightyear<br>🎲 Fun fact:i hate buzzlightyear</p>
+<p align="left">✨ Bugs since 2019<br>📚 Learning Robotics and Machine Learning<br>🎯i hope to master cryptography one lightyear<br>🎲 I hate buzzlightyear</p>
 
 ###
 
