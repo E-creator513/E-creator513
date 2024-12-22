@@ -5,12 +5,7 @@
 
 ###
 
-<p align="left">My name is Emmanuel George and I'm a Control Sytems student at ITMO Reasearch University.The coding projects  built on this page are from the ground up, from designing all the way to solving real-life problems with code.I publish most of my  content on my blog channel ,be sure to check it out</p>
 
-###
-###
-
-<p align="left">Меня зовут Эммануэль Джордж,  студент факультета систем управления Исследовательского университета ИТМО.Все проекты по программированию, представленные на этой странице, созданы с нуля, от проектирования до решения реальных задач с помощью кода.Я публикую большую часть своего контента на своем канале в блоге, обязательно ознакомьтесь с ним</p>
 
 ###
 
