@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Bugs since 2019<br>📚 Learning Robotics and Machine Learning<br>🎯i hope to master cryptography one lightyear<br>🎲 I hate buzzlightyear</p>
+<p align="left">r<br>🎲 I hate buzzlightyear</p>
 
 ###
 
