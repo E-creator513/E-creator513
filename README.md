@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left"><br>🎲 I hate buzzlightyear</p>
+<p align="left"><br>🎲  buzzlightyear</p>
 
 ###
 
