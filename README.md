@@ -3,8 +3,14 @@
 
 ### Vladik Saint Emmanuel
 
-Pluto Emmanuel
-
+### Pluto Emmanuel
+### Freeman Scout Emmanuel
+### Trent Raven Emmanuel
+### Artur Amos Emmanuel
+### Masamba Agamemnon Emmanuel
+### Adeola Emmanuel
+### Alik Graham Emmanuel
+### Judd Alyosha Emmanuel
 ###
 
 
